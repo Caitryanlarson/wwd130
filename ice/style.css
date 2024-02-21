@@ -1,0 +1,29 @@
+h1{
+    font-size:2em;
+}
+.aboutme{
+    padding:20px 50px;  
+    background-color: pink;    
+}
+.bluebox{
+    font-size:3em;
+    background-color:blue;
+    text-align: center;
+}
+.runner{
+    float: right;
+    width: 350px;
+    padding: 15px;
+    height: 200px;
+    object-fit:cover;
+}
+.picture{
+    margin: 50px;
+    background-color: lightgray;
+    border-radius: 20px;
+    border: solid 2px black;
+    color:purple;
+}
+.picture h1{
+    color: orange;
+}

@@ -18,32 +18,32 @@ main section{
 }
 #background{
     height: 725px;
-    background-color: blue;
+    background-color: #134266;
 }
 body{
-    background-color: black;
+    background-color: #78c5d7;
 }
 header{
-    background-color: pink;
+    background-color: #134266;
 }
 nav a:hover{
-    background-color: aqua;
+    background-color: #ffe26d;
     color: black;
 }
 .book, .join{
-    background-color: lightpink;
+    background-color: #d89f7b;
     color: black;
     text-decoration: none;
 }
 .book:hover, .join:hover{
-    background-color: palegoldenrod;
+    background-color: #ffe26d;
     color: black;
 }
 .msg{
-    background-color: brown;
+    background-color: #134266;
 }
 footer{
-    background-color: lightblue;
+    background-color: #78c5d7;
     color: black;
 }
 .home-title{
